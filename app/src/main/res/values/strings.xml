@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">FitnessApp</string>
+    <string name="start">Start</string>
+    <string name="options">Options</string>
+    <string name="exit">Exit</string>
+    <string name="title_activity_main_window" translatable="false">MainActivityWindow</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label" translatable="false">First Fragment</string>
+    <string name="second_fragment_label" translatable="false">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment" translatable="false">Hello first fragment</string>
+    <string name="hello_second_fragment" translatable="false">Hello second fragment. Arg: %1$s</string>
+    <string name="todo">TODO</string>
+    <string name="age">Age:</string>
+    <string name="gender">Gender:</string>
+    <string name="kcal" translatable="false">Kcal</string>
+    <string name="save">Save</string>
+    <string name="add_meal">Add Meal</string>
+    <string name="meal">Meal:</string>
+    <string name="meal_kcal">Meal Kcal:</string>
+    <string name="Save" translatable="false">Save</string>
+    <string name="first_meal">First Meal</string>
+    <string name="kcal_left">Kcal left:</string>
+    <string name="calculator_kcal">Calculator Kcal</string>
+    <string name="end_day">End Day</string>
+    <string name="female">Female</string>
+    <string name="male">Male</string>
+    <string name="height">Height:</string>
+    <string name="weight">Weight:</string>
+    <string name="set_life_style">Set Life Style</string>
+
+</resources>

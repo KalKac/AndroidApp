@@ -1,0 +1,11 @@
+<resources>
+
+    <style name="Widget.Theme.FitnessApp.MyView" parent="">
+        <item name="android:background">@color/gray_400</item>
+        <item name="exampleColor">@color/light_blue_400</item>
+    </style>
+
+    <style name="FilterSwitchThemeOrange" parent="">
+        <item name="colorAccent">#FF9800</item>
+    </style>
+</resources>
